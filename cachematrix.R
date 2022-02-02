@@ -2,7 +2,6 @@
 ## functions do
 
 ## Write a short comment describing this function
-library(MASS) 
 makeCacheMatrix <- function(x = matrix()) {
   inv<-NULL
   set<-function(y){
